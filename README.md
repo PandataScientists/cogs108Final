@@ -1,12 +1,6 @@
 # cogs108Final
 COGS 108 Final Project
 
-+ One
-+ Two
-+ Three
-    - Nested One
-    - Nested Two
-
 # Datasets
 + Bureau of Justice Statistics: Survey of Police Departments across the Country
   - [Original](http://www.icpsr.umich.edu/cgi-bin/bob/zipcart2?path=ICPSR&study=36217&bundle=delimited&ds=1&dups=yes)
