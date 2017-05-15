@@ -2,7 +2,7 @@
 COGS 108 Final Project
 
 Datasets:
-###1. Bureau of Justice Statistics - Survey of Police Departments across the Country. 
+1. Bureau of Justice Statistics - Survey of Police Departments across the Country. 
 Location: http://www.icpsr.umich.edu/cgi-bin/bob/zipcart2?path=ICPSR&study=36217&bundle=delimited&ds=1&dups=yes
 File: doj_data.tsv
 Codebook: doj_codebook.pdf
