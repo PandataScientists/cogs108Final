@@ -1,0 +1,33 @@
+DOJ keep:
+gen info 
+IPEDS_ID 
+SCHOOL 
+STATE
+CONTROL - private/public
+HEADCOUNT_2011
+
+
+Q03_1 - campus or not 
+Q03_5 - private or not 
+
+Q06_A-E - demographics
+
+Q21 - operating budget
+
+Q38_B - required education of police officers
+
+Q42_M - new applicants understand cultural diversity requirement 
+
+Q47A_ A-L - weapon info 
+
+Q52_A - meeting with advocacy group
+
+Q52_G - meeting with student government 
+
+Q52_N - student organization meetings 
+
+Q56_I - dedicated personal to bias/hate crime
+
+Q56_R - dedicated personnel for victim assistance 
+
+Q59 - is there campus safety escort? 
